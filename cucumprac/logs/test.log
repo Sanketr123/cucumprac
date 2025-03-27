@@ -1,0 +1,232 @@
+2025-03-26 23:27:36 [main] INFO  hooks.Hooks - Browser initialized
+2025-03-26 23:27:39 [main] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-26 23:27:40 [main] INFO  pages.LoginPage - Entered username and password
+2025-03-26 23:27:40 [main] INFO  stepDefination.LoginSteps - Entered credentials: practice
+2025-03-26 23:27:40 [main] INFO  stepDefination.LoginSteps - Clicked login button
+2025-03-26 23:27:44 [main] INFO  hooks.Hooks - Browser closed
+2025-03-26 23:28:48 [main] INFO  hooks.Hooks - Browser initialized
+2025-03-26 23:28:48 [main] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-26 23:28:49 [main] INFO  pages.LoginPage - Entered username and password
+2025-03-26 23:28:49 [main] INFO  stepDefination.LoginSteps - Entered credentials: practice
+2025-03-26 23:28:49 [main] INFO  stepDefination.LoginSteps - Clicked login button
+2025-03-26 23:28:54 [main] INFO  hooks.Hooks - Browser closed
+2025-03-27 10:57:26 [main] INFO  hooks.Hooks - Browser initialized
+2025-03-27 10:57:28 [main] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-27 10:57:28 [main] INFO  pages.LoginPage - Entered username and password
+2025-03-27 10:57:28 [main] INFO  stepDefination.LoginSteps - Entered credentials: practice
+2025-03-27 10:57:28 [main] INFO  stepDefination.LoginSteps - Clicked login button
+2025-03-27 10:57:31 [main] INFO  hooks.Hooks - Browser closed
+2025-03-27 12:47:08 [main] INFO  hooks.Hooks - Browser initialized
+2025-03-27 12:47:09 [main] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-27 12:47:09 [main] INFO  utility.ReusableActions - Scrolled down by 500 pixels
+2025-03-27 12:47:10 [main] INFO  pages.LoginPage - Entered username and password
+2025-03-27 12:47:10 [main] INFO  stepDefination.LoginSteps - Entered credentials: practice
+2025-03-27 12:47:10 [main] INFO  stepDefination.LoginSteps - Clicked login button
+2025-03-27 12:47:14 [main] INFO  hooks.Hooks - Browser closed
+2025-03-27 13:50:00 [main] INFO  hooks.Hooks - Browser initialized
+2025-03-27 13:50:02 [main] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-27 13:50:02 [main] INFO  utility.ReusableActions - Scrolled down by 500 pixels
+2025-03-27 13:50:02 [main] INFO  pages.LoginPage - Entered username and password
+2025-03-27 13:50:02 [main] INFO  stepDefination.LoginSteps - Entered credentials: practice
+2025-03-27 13:50:02 [main] INFO  stepDefination.LoginSteps - Clicked login button
+2025-03-27 13:50:05 [main] INFO  hooks.Hooks - Browser closed
+2025-03-27 13:53:20 [main] INFO  hooks.Hooks - Browser initialized
+2025-03-27 13:53:22 [main] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-27 13:53:22 [main] INFO  utility.ReusableActions - Scrolled down by 500 pixels
+2025-03-27 13:53:22 [main] INFO  pages.LoginPage - Entered username and password
+2025-03-27 13:53:22 [main] INFO  stepDefination.LoginSteps - Entered credentials: practice
+2025-03-27 13:53:22 [main] INFO  stepDefination.LoginSteps - Clicked login button
+2025-03-27 13:53:25 [main] INFO  hooks.Hooks - Browser closed
+2025-03-27 13:55:59 [main] INFO  hooks.Hooks - Browser initialized
+2025-03-27 13:56:00 [main] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-27 13:56:00 [main] INFO  utility.ReusableActions - Scrolled down by 500 pixels
+2025-03-27 13:56:01 [main] INFO  pages.LoginPage - Entered username and password
+2025-03-27 13:56:01 [main] INFO  stepDefination.LoginSteps - Entered credentials: practice
+2025-03-27 13:56:02 [main] INFO  stepDefination.LoginSteps - Clicked login button
+2025-03-27 13:56:04 [main] INFO  hooks.Hooks - Browser closed
+2025-03-27 13:58:32 [main] INFO  hooks.Hooks - Browser initialized
+2025-03-27 13:58:34 [main] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-27 13:58:34 [main] INFO  utility.ReusableActions - Scrolled down by 500 pixels
+2025-03-27 13:58:34 [main] INFO  pages.LoginPage - Entered username and password
+2025-03-27 13:58:34 [main] INFO  stepDefination.LoginSteps - Entered credentials: practice
+2025-03-27 13:58:34 [main] INFO  stepDefination.LoginSteps - Clicked login button
+2025-03-27 13:58:37 [main] INFO  hooks.Hooks - Browser closed
+2025-03-27 13:59:47 [main] INFO  hooks.Hooks - Browser initialized
+2025-03-27 13:59:48 [main] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-27 13:59:48 [main] INFO  utility.ReusableActions - Scrolled down by 500 pixels
+2025-03-27 13:59:48 [main] INFO  pages.LoginPage - Entered username and password
+2025-03-27 13:59:48 [main] INFO  stepDefination.LoginSteps - Entered credentials: practice
+2025-03-27 13:59:50 [main] INFO  stepDefination.LoginSteps - Clicked login button
+2025-03-27 13:59:51 [main] INFO  hooks.Hooks - Browser closed
+2025-03-27 14:06:21 [main] INFO  hooks.Hooks - Browser initialized
+2025-03-27 14:06:22 [main] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-27 14:06:23 [main] INFO  utility.ReusableActions - Scrolled down by 500 pixels
+2025-03-27 14:06:23 [main] INFO  pages.LoginPage - Entered username and password
+2025-03-27 14:06:23 [main] INFO  stepDefination.LoginSteps - Entered credentials: practice
+2025-03-27 14:06:23 [main] INFO  stepDefination.LoginSteps - Clicked login button
+2025-03-27 14:06:26 [main] INFO  hooks.Hooks - Browser closed
+2025-03-27 15:33:02 [main] INFO  hooks.Hooks - Browser initialized
+2025-03-27 15:33:04 [main] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-27 15:33:04 [main] INFO  utility.ReusableActions - Scrolled down by 500 pixels
+2025-03-27 15:33:04 [main] INFO  pages.LoginPage - Entered username and password
+2025-03-27 15:33:04 [main] INFO  stepDefination.LoginSteps - Entered credentials: practice
+2025-03-27 15:33:06 [main] INFO  stepDefination.LoginSteps - Clicked login button
+2025-03-27 15:33:07 [main] INFO  hooks.Hooks - Browser closed
+2025-03-27 15:38:52 [main] INFO  hooks.Hooks - Browser initialized
+2025-03-27 15:38:55 [main] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-27 15:38:55 [main] INFO  utility.ReusableActions - Scrolled down by 500 pixels
+2025-03-27 15:38:55 [main] INFO  pages.LoginPage - Entered username and password
+2025-03-27 15:38:55 [main] INFO  stepDefination.LoginSteps - Entered credentials: practice
+2025-03-27 15:38:55 [main] INFO  stepDefination.LoginSteps - Clicked login button
+2025-03-27 15:38:58 [main] INFO  hooks.Hooks - Browser closed
+2025-03-27 15:40:11 [main] INFO  hooks.Hooks - Browser initialized
+2025-03-27 15:40:14 [main] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-27 15:40:14 [main] INFO  utility.ReusableActions - Scrolled down by 500 pixels
+2025-03-27 15:40:14 [main] INFO  pages.LoginPage - Entered username and password
+2025-03-27 15:40:14 [main] INFO  stepDefination.LoginSteps - Entered credentials: practice
+2025-03-27 15:40:14 [main] INFO  stepDefination.LoginSteps - Clicked login button
+2025-03-27 15:40:17 [main] INFO  hooks.Hooks - Browser closed
+2025-03-27 15:44:44 [main] INFO  hooks.Hooks - Browser initialized
+2025-03-27 15:44:46 [main] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-27 15:44:46 [main] INFO  utility.ReusableActions - Scrolled down by 500 pixels
+2025-03-27 15:44:47 [main] INFO  pages.LoginPage - Entered username and password
+2025-03-27 15:44:47 [main] INFO  stepDefination.LoginSteps - Entered credentials: practice
+2025-03-27 15:44:47 [main] INFO  stepDefination.LoginSteps - Clicked login button
+2025-03-27 15:44:50 [main] INFO  hooks.Hooks - Browser closed
+2025-03-27 15:49:20 [main] INFO  hooks.Hooks - Browser initialized
+2025-03-27 15:49:21 [main] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-27 15:49:21 [main] INFO  utility.ReusableActions - Scrolled down by 500 pixels
+2025-03-27 15:49:22 [main] INFO  pages.LoginPage - Entered username and password
+2025-03-27 15:49:22 [main] INFO  stepDefination.LoginSteps - Entered credentials: practice
+2025-03-27 15:49:23 [main] INFO  stepDefination.LoginSteps - Clicked login button
+2025-03-27 15:49:27 [main] INFO  hooks.Hooks - Browser closed
+2025-03-27 16:14:58 [TestNG-PoolService-3] INFO  hooks.Hooks - Browser initialized
+2025-03-27 16:14:58 [TestNG-PoolService-5] INFO  hooks.Hooks - Browser initialized
+2025-03-27 16:14:58 [TestNG-PoolService-4] INFO  hooks.Hooks - Browser initialized
+2025-03-27 16:14:58 [TestNG-PoolService-2] INFO  hooks.Hooks - Browser initialized
+2025-03-27 16:14:59 [TestNG-PoolService-1] INFO  hooks.Hooks - Browser initialized
+2025-03-27 16:15:00 [TestNG-PoolService-1] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-27 16:15:01 [TestNG-PoolService-5] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-27 16:15:02 [TestNG-PoolService-2] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-27 16:15:03 [TestNG-PoolService-4] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-27 16:15:04 [TestNG-PoolService-3] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-27 16:15:04 [TestNG-PoolService-1] INFO  utility.ReusableActions - Scrolled down by 500 pixels
+2025-03-27 16:15:04 [TestNG-PoolService-5] INFO  utility.ReusableActions - Scrolled down by 500 pixels
+2025-03-27 16:15:04 [TestNG-PoolService-2] INFO  utility.ReusableActions - Scrolled down by 500 pixels
+2025-03-27 16:15:04 [TestNG-PoolService-4] INFO  utility.ReusableActions - Scrolled down by 500 pixels
+2025-03-27 16:15:04 [TestNG-PoolService-3] INFO  utility.ReusableActions - Scrolled down by 500 pixels
+2025-03-27 16:15:04 [TestNG-PoolService-1] INFO  pages.LoginPage - Entered username and password
+2025-03-27 16:15:04 [TestNG-PoolService-1] INFO  stepDefination.LoginSteps - Entered credentials: practice
+2025-03-27 16:15:04 [TestNG-PoolService-5] INFO  pages.LoginPage - Entered username and password
+2025-03-27 16:15:04 [TestNG-PoolService-5] INFO  stepDefination.LoginSteps - Entered credentials: practice
+2025-03-27 16:15:05 [TestNG-PoolService-2] INFO  pages.LoginPage - Entered username and password
+2025-03-27 16:15:05 [TestNG-PoolService-2] INFO  stepDefination.LoginSteps - Entered credentials: invalid
+2025-03-27 16:15:05 [TestNG-PoolService-4] INFO  pages.LoginPage - Entered username and password
+2025-03-27 16:15:05 [TestNG-PoolService-4] INFO  stepDefination.LoginSteps - Entered credentials: practice
+2025-03-27 16:15:05 [TestNG-PoolService-3] INFO  pages.LoginPage - Entered username and password
+2025-03-27 16:15:05 [TestNG-PoolService-3] INFO  stepDefination.LoginSteps - Entered credentials: practice
+2025-03-27 16:15:08 [TestNG-PoolService-1] INFO  stepDefination.LoginSteps - Clicked login button
+2025-03-27 16:15:08 [TestNG-PoolService-1] INFO  pages.LoginPage - Got hipractice text from homepage after login
+2025-03-27 16:15:13 [TestNG-PoolService-1] INFO  hooks.Hooks - Browser closed
+2025-03-27 16:17:26 [TestNG-PoolService-1] INFO  hooks.Hooks - Browser initialized
+2025-03-27 16:17:26 [TestNG-PoolService-2] INFO  hooks.Hooks - Browser initialized
+2025-03-27 16:17:26 [TestNG-PoolService-3] INFO  hooks.Hooks - Browser initialized
+2025-03-27 16:17:29 [TestNG-PoolService-4] INFO  hooks.Hooks - Browser initialized
+2025-03-27 16:17:29 [TestNG-PoolService-5] INFO  hooks.Hooks - Browser initialized
+2025-03-27 16:17:30 [TestNG-PoolService-1] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-27 16:17:31 [TestNG-PoolService-2] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-27 16:17:32 [TestNG-PoolService-4] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-27 16:17:34 [TestNG-PoolService-3] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-27 16:17:34 [TestNG-PoolService-5] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-27 16:17:34 [TestNG-PoolService-1] INFO  utility.ReusableActions - Scrolled down by 500 pixels
+2025-03-27 16:17:35 [TestNG-PoolService-2] INFO  utility.ReusableActions - Scrolled down by 500 pixels
+2025-03-27 16:17:35 [TestNG-PoolService-4] INFO  utility.ReusableActions - Scrolled down by 500 pixels
+2025-03-27 16:17:35 [TestNG-PoolService-3] INFO  utility.ReusableActions - Scrolled down by 500 pixels
+2025-03-27 16:17:35 [TestNG-PoolService-5] INFO  utility.ReusableActions - Scrolled down by 500 pixels
+2025-03-27 16:17:36 [TestNG-PoolService-1] INFO  pages.LoginPage - Entered username and password
+2025-03-27 16:17:36 [TestNG-PoolService-1] INFO  stepDefination.LoginSteps - Entered credentials: practice
+2025-03-27 16:17:36 [TestNG-PoolService-2] INFO  pages.LoginPage - Entered username and password
+2025-03-27 16:17:36 [TestNG-PoolService-2] INFO  stepDefination.LoginSteps - Entered credentials: invalid
+2025-03-27 16:17:36 [TestNG-PoolService-4] INFO  pages.LoginPage - Entered username and password
+2025-03-27 16:17:36 [TestNG-PoolService-4] INFO  stepDefination.LoginSteps - Entered credentials: practice
+2025-03-27 16:17:36 [TestNG-PoolService-3] INFO  pages.LoginPage - Entered username and password
+2025-03-27 16:17:36 [TestNG-PoolService-3] INFO  stepDefination.LoginSteps - Entered credentials: practice
+2025-03-27 16:17:36 [TestNG-PoolService-5] INFO  pages.LoginPage - Entered username and password
+2025-03-27 16:17:36 [TestNG-PoolService-5] INFO  stepDefination.LoginSteps - Entered credentials: practice
+2025-03-27 16:17:38 [TestNG-PoolService-1] INFO  stepDefination.LoginSteps - Clicked login button
+2025-03-27 16:17:40 [TestNG-PoolService-1] INFO  pages.LoginPage - Got hipractice text from homepage after login
+2025-03-27 16:17:48 [TestNG-PoolService-1] INFO  hooks.Hooks - Browser closed
+2025-03-27 16:26:57 [TestNG-PoolService-3] INFO  hooks.Hooks - Browser initialized
+2025-03-27 16:26:57 [TestNG-PoolService-2] INFO  hooks.Hooks - Browser initialized
+2025-03-27 16:26:58 [TestNG-PoolService-1] INFO  hooks.Hooks - Browser initialized
+2025-03-27 16:26:59 [TestNG-PoolService-1] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-27 16:27:00 [TestNG-PoolService-3] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-27 16:27:01 [TestNG-PoolService-2] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-27 16:27:01 [TestNG-PoolService-1] INFO  utility.ReusableActions - Scrolled down by 500 pixels
+2025-03-27 16:27:01 [TestNG-PoolService-3] INFO  utility.ReusableActions - Scrolled down by 500 pixels
+2025-03-27 16:27:01 [TestNG-PoolService-2] INFO  utility.ReusableActions - Scrolled down by 500 pixels
+2025-03-27 16:27:02 [TestNG-PoolService-1] INFO  pages.LoginPage - Entered username and password
+2025-03-27 16:27:02 [TestNG-PoolService-1] INFO  stepDefination.LoginSteps - Entered credentials: practice
+2025-03-27 16:27:02 [TestNG-PoolService-3] INFO  pages.LoginPage - Entered username and password
+2025-03-27 16:27:02 [TestNG-PoolService-3] INFO  stepDefination.LoginSteps - Entered credentials: practice
+2025-03-27 16:27:02 [TestNG-PoolService-2] INFO  pages.LoginPage - Entered username and password
+2025-03-27 16:27:02 [TestNG-PoolService-2] INFO  stepDefination.LoginSteps - Entered credentials: invalid
+2025-03-27 16:27:04 [TestNG-PoolService-1] INFO  stepDefination.LoginSteps - Clicked login button
+2025-03-27 16:27:04 [TestNG-PoolService-1] INFO  pages.LoginPage - Got hipractice text from homepage after login
+2025-03-27 16:27:06 [TestNG-PoolService-1] INFO  hooks.Hooks - Browser closed
+2025-03-27 16:40:39 [TestNG-PoolService-1] INFO  hooks.Hooks - Browser initialized
+2025-03-27 16:40:41 [TestNG-PoolService-1] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-27 16:40:41 [TestNG-PoolService-1] INFO  utility.ReusableActions - Scrolled down by 500 pixels
+2025-03-27 16:40:42 [TestNG-PoolService-1] INFO  pages.LoginPage - Entered username and password
+2025-03-27 16:40:42 [TestNG-PoolService-1] INFO  stepDefination.LoginSteps - Entered credentials: practice
+2025-03-27 16:40:42 [TestNG-PoolService-1] INFO  stepDefination.LoginSteps - Clicked login button
+2025-03-27 16:40:46 [TestNG-PoolService-1] INFO  hooks.Hooks - Browser closed
+2025-03-27 16:41:50 [TestNG-PoolService-3] INFO  hooks.Hooks - Browser initialized
+2025-03-27 16:41:52 [TestNG-PoolService-2] INFO  hooks.Hooks - Browser initialized
+2025-03-27 16:41:52 [TestNG-PoolService-1] INFO  hooks.Hooks - Browser initialized
+2025-03-27 16:41:53 [TestNG-PoolService-1] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-27 16:41:53 [TestNG-PoolService-1] INFO  utility.ReusableActions - Scrolled down by 500 pixels
+2025-03-27 16:41:54 [TestNG-PoolService-3] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-27 16:41:54 [TestNG-PoolService-1] INFO  pages.LoginPage - Entered username and password
+2025-03-27 16:41:54 [TestNG-PoolService-1] INFO  stepDefination.LoginSteps - Entered credentials: practice
+2025-03-27 16:41:54 [TestNG-PoolService-3] INFO  utility.ReusableActions - Scrolled down by 500 pixels
+2025-03-27 16:41:55 [TestNG-PoolService-2] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-27 16:41:55 [TestNG-PoolService-3] INFO  pages.LoginPage - Entered username and password
+2025-03-27 16:41:55 [TestNG-PoolService-3] INFO  stepDefination.LoginSteps - Entered credentials: practice
+2025-03-27 16:41:55 [TestNG-PoolService-1] INFO  stepDefination.LoginSteps - Clicked login button
+2025-03-27 16:41:55 [TestNG-PoolService-2] INFO  utility.ReusableActions - Scrolled down by 500 pixels
+2025-03-27 16:41:55 [TestNG-PoolService-1] INFO  pages.LoginPage - Got hipractice text from homepage after login
+2025-03-27 16:41:57 [TestNG-PoolService-2] INFO  pages.LoginPage - Entered username and password
+2025-03-27 16:41:57 [TestNG-PoolService-2] INFO  stepDefination.LoginSteps - Entered credentials: invalid
+2025-03-27 16:41:57 [TestNG-PoolService-1] INFO  hooks.Hooks - Browser closed
+2025-03-27 16:46:18 [TestNG-PoolService-1] INFO  hooks.Hooks - Browser initialized
+2025-03-27 16:46:18 [TestNG-PoolService-2] INFO  hooks.Hooks - Browser initialized
+2025-03-27 16:46:20 [TestNG-PoolService-2] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-27 16:46:21 [TestNG-PoolService-1] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-27 16:46:21 [TestNG-PoolService-2] INFO  utility.ReusableActions - Scrolled down by 500 pixels
+2025-03-27 16:46:21 [TestNG-PoolService-1] INFO  utility.ReusableActions - Scrolled down by 500 pixels
+2025-03-27 16:46:21 [TestNG-PoolService-2] INFO  pages.LoginPage - Entered username and password
+2025-03-27 16:46:21 [TestNG-PoolService-2] INFO  stepDefination.LoginSteps - Entered credentials: practice
+2025-03-27 16:46:22 [TestNG-PoolService-1] INFO  pages.LoginPage - Entered username and password
+2025-03-27 16:46:22 [TestNG-PoolService-1] INFO  stepDefination.LoginSteps - Entered credentials: invalid
+2025-03-27 16:46:23 [TestNG-PoolService-2] INFO  stepDefination.LoginSteps - Clicked login button
+2025-03-27 16:46:26 [TestNG-PoolService-2] INFO  hooks.Hooks - Browser closed
+2025-03-27 17:49:25 [TestNG-PoolService-3] INFO  hooks.Hooks - Browser initialized
+2025-03-27 17:49:25 [TestNG-PoolService-2] INFO  hooks.Hooks - Browser initialized
+2025-03-27 17:49:25 [TestNG-PoolService-1] INFO  hooks.Hooks - Browser initialized
+2025-03-27 17:49:27 [TestNG-PoolService-1] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-27 17:49:28 [TestNG-PoolService-3] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-27 17:49:29 [TestNG-PoolService-2] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-27 17:49:29 [TestNG-PoolService-1] INFO  utility.ReusableActions - Scrolled down by 500 pixels
+2025-03-27 17:49:29 [TestNG-PoolService-3] INFO  utility.ReusableActions - Scrolled down by 500 pixels
+2025-03-27 17:49:29 [TestNG-PoolService-2] INFO  utility.ReusableActions - Scrolled down by 500 pixels
+2025-03-27 17:49:30 [TestNG-PoolService-1] INFO  pages.LoginPage - Entered username and password
+2025-03-27 17:49:30 [TestNG-PoolService-1] INFO  stepDefination.LoginSteps - Entered credentials: practice
+2025-03-27 17:49:30 [TestNG-PoolService-3] INFO  pages.LoginPage - Entered username and password
+2025-03-27 17:49:30 [TestNG-PoolService-3] INFO  stepDefination.LoginSteps - Entered credentials: practice
+2025-03-27 17:49:30 [TestNG-PoolService-2] INFO  pages.LoginPage - Entered username and password
+2025-03-27 17:49:30 [TestNG-PoolService-2] INFO  stepDefination.LoginSteps - Entered credentials: invalid
+2025-03-27 17:49:31 [TestNG-PoolService-1] INFO  stepDefination.LoginSteps - Clicked login button
+2025-03-27 17:49:31 [TestNG-PoolService-1] INFO  pages.LoginPage - Got hipractice text from homepage after login
+2025-03-27 17:49:32 [TestNG-PoolService-3] INFO  hooks.Hooks - Browser closed
+2025-03-27 17:49:32 [TestNG-PoolService-1] INFO  hooks.Hooks - Browser closed

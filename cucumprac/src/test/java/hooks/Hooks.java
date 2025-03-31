@@ -10,6 +10,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
+import context.TestContext;
 //import io.cucumber.core.logging.Logger;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
@@ -21,11 +22,17 @@ public class Hooks {
 	private static WebDriver driver;
     private static final Logger logger = LogManager.getLogger(Hooks.class); // Correct import	
     
+    private TestContext testContext;
+
+    public Hooks(TestContext context) {
+        this.testContext = context;
+    }
+    
     @Before
     public void setUp() {
     	ChromeOptions options = new ChromeOptions();
     	//options.addArguments("--proxy-server=" + PROXY_ADDRESS);
-    	options.addExtensions(new File("C:\\Users\\qaind\\Downloads\\uBlock-Origin-Lite-Chrome-Web-Store.crx"));
+    	options.addExtensions(new File("C:\\Users\\Sanket Raut\\Downloads\\uBlock-Origin-Chrome-Web-Store.crx"));
         driver = new ChromeDriver(options);
         driver.manage().window().maximize();
         logger.info("Browser initialized");

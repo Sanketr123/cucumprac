@@ -230,3 +230,14 @@
 2025-03-27 17:49:31 [TestNG-PoolService-1] INFO  pages.LoginPage - Got hipractice text from homepage after login
 2025-03-27 17:49:32 [TestNG-PoolService-3] INFO  hooks.Hooks - Browser closed
 2025-03-27 17:49:32 [TestNG-PoolService-1] INFO  hooks.Hooks - Browser closed
+2025-03-27 22:14:21 [TestNG-PoolService-2] INFO  hooks.Hooks - Browser initialized
+2025-03-27 22:14:21 [TestNG-PoolService-1] INFO  hooks.Hooks - Browser initialized
+2025-03-27 22:14:21 [TestNG-PoolService-3] INFO  hooks.Hooks - Browser initialized
+2025-03-27 22:14:43 [TestNG-PoolService-3] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-27 22:15:22 [TestNG-PoolService-1] INFO  hooks.Hooks - Browser initialized
+2025-03-27 22:15:46 [TestNG-PoolService-1] INFO  stepDefination.LoginSteps - Navigated to login page
+2025-03-27 22:15:46 [TestNG-PoolService-1] INFO  utility.ReusableActions - Scrolled down by 500 pixels
+2025-03-27 22:15:46 [TestNG-PoolService-1] INFO  pages.LoginPage - Entered username and password
+2025-03-27 22:15:46 [TestNG-PoolService-1] INFO  stepDefination.LoginSteps - Entered credentials: practice
+2025-03-27 22:15:46 [TestNG-PoolService-1] INFO  stepDefination.LoginSteps - Clicked login button
+2025-03-27 22:15:51 [TestNG-PoolService-1] INFO  hooks.Hooks - Browser closed

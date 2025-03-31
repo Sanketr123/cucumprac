@@ -1,5 +1,5 @@
 Feature: Login Functionality
-@Regression
+#@Regression
   Scenario Outline: login feature
     Given I am on the webiste
     When I enter "<username>" and "<password>" 
